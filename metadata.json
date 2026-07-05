@@ -1,0 +1,6 @@
+{
+  "name": "Internship Enhancement App",
+  "description": "An all-in-one dashboard designed to boost students' chances of securing internships through AI-driven CV analysis, SOP building, LinkedIn enhancement, interview prep, skill gap alerts, and application tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
